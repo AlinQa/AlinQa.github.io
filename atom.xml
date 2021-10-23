@@ -6,7 +6,7 @@
   <link href="https://alinqa.github.io/atom.xml" rel="self"/>
   
   <link href="https://alinqa.github.io/"/>
-  <updated>2021-10-23T07:42:21.177Z</updated>
+  <updated>2021-10-23T07:49:22.981Z</updated>
   <id>https://alinqa.github.io/</id>
   
   <author>
@@ -21,11 +21,24 @@
     <link href="https://alinqa.github.io/2021/10/23/%E6%B7%B1%E5%88%BB%E6%95%99%E8%AE%AD/"/>
     <id>https://alinqa.github.io/2021/10/23/%E6%B7%B1%E5%88%BB%E6%95%99%E8%AE%AD/</id>
     <published>2021-10-23T07:42:21.000Z</published>
-    <updated>2021-10-23T07:42:21.177Z</updated>
+    <updated>2021-10-23T07:49:22.981Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="深刻教训"><a href="#深刻教训" class="headerlink" title="深刻教训"></a>深刻教训</h1><p>真的是“血”的教训，创建完博客以后”node””git“等文件一定不能随便乱移动文件的位置（在不记得路径的情况下）如果随便乱移了，那么恭喜你，你将会收获系统的一系列”command not found”。</p><p>  面对这种情况往往有多种解决方法：(对于小白的我来说只知道两种)</p><p>1.首先打开我的电脑，右击并选择属性，打开最左侧一栏控制面板主页的高级系统设置，选择环境变量，在path中添加文件所在路径，最后按确定即可。</p><p>2.直接百度去官网下载一个新的文件。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;深刻教训&quot;&gt;&lt;a href=&quot;#深刻教训&quot; class=&quot;headerlink&quot; title=&quot;深刻教训&quot;&gt;&lt;/a&gt;深刻教训&lt;/h1&gt;&lt;p&gt;真的是“血”的教训，创建完博客以后”node””git“等文件一定不能随便乱移动文件的位置（在不记得路径的情况下）如果随便乱</summary>
+      
     
     
     
+    <category term="web前端" scheme="https://alinqa.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
     
+    
+    <category term="博客" scheme="https://alinqa.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="hexo" scheme="https://alinqa.github.io/tags/hexo/"/>
     
   </entry>
   
